@@ -1,17 +1,6 @@
-# Docker Swarm
+# Kubernetes
 
 - - - -
-
-## Table of Contents
-
-* [Overview](https://github.com/Mr-Bally/DevNotes/blob/main/Docker/kubernetes.md#overview)
-* [History](https://github.com/Mr-Bally/DevNotes/blob/main/Docker/kubernetes.md#history)
-* [General concepts](https://github.com/Mr-Bally/DevNotes/blob/main/Docker/kubernetes.md#general-concepts)
-* [kubectl](https://github.com/Mr-Bally/DevNotes/blob/main/Docker/kubernetes.md#kubectl)
-* [Pods](https://github.com/Mr-Bally/DevNotes/blob/main/Docker/kubernetes.md#pods)
-* [Deployments](https://github.com/Mr-Bally/DevNotes/blob/main/Docker/kubernetes.md#deployments)
-* [Storage](https://github.com/Mr-Bally/DevNotes/blob/main/Docker/kubernetes.md#storage)
-* [Config](https://github.com/Mr-Bally/DevNotes/blob/main/Docker/kubernetes.md#config)
 
 ## Overview
 
